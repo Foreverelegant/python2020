@@ -1,7 +1,7 @@
 # Python小測驗_100題
 # 1.Python入門
 ```
-1.要在螢幕輸出Hello, Python!  底下程式需使用哪個函數:
+【(A)】/ 1.要在螢幕輸出Hello, Python!  底下程式需使用哪個函數:
 
 #!/usr/bin/python3
 ________("Hello, Python!")
@@ -9,7 +9,7 @@ ________("Hello, Python!")
 (A) print   (B) printf   (C) printline   (D) printn
 ```
 ```
-2.要在程式碼中新增一行註解，底下程式需使用哪個符號:
+【(C)】/2.要在程式碼中新增一行註解，底下程式需使用哪個符號:
 
 #!/usr/bin/python3
 __這是一行註解
@@ -18,7 +18,7 @@ print("Hello, Python!")
 (A)	/   (B) -   (C) #   (D) <!-->
 ```
 ```
-3.要新建一個變數名稱為school，並將變數值設定為ksu，底下程式需填入:
+【(D)】/ 3.要新建一個變數名稱為school，並將變數值設定為ksu，底下程式需填入:
 
 #!/usr/bin/python3
 (1)______ = “(2)______”
@@ -27,7 +27,7 @@ print("Hello, Python!")
 (C) (1)”ksu”，(2)school   (D) (1)ksu，(2)”school”  
 ```
 ```
-4.要檢查變數資料型別 底下程式需使用哪個函數:
+【(A)】/  4.要檢查變數資料型別 底下程式需使用哪個函數:
 
 #!/usr/bin/python3
 y = 65535
@@ -37,7 +37,7 @@ print(______(y))
 
 ```
 ```
-5.試問以下程式執行後輸出什麼:
+【(A)】/ 5.試問以下程式執行後輸出什麼:
 
 #!/usr/bin/python3
 y = 65535
@@ -46,7 +46,7 @@ print(type(y))
 (A) <class 'int'>  (B) <class 'str'>  (C) <class 'float'>  (D) <class 'tuple'>
 ```
 ```
-6.要在程式碼中進行資料型態轉換 底下程式需使用哪個函數將x轉換成float:
+【(C)】/ 6.要在程式碼中進行資料型態轉換 底下程式需使用哪個函數將x轉換成float:
 
 #!/usr/bin/python3
 x = 65535
@@ -55,7 +55,7 @@ ______(x)
 (A) long   (B) str   (C) float   (D)int
 ```
 ```
-7.要計算一個字串長度 底下程式需使用哪個函數:
+【(B)】/  7.要計算一個字串長度 底下程式需使用哪個函數:
 
 #!/usr/bin/python3
 string1 = "Hello, Python!"
@@ -64,7 +64,7 @@ print(___________(string1))
 (A) find   (B) len   (C) count   (D)replace
 ```
 ```
-8.試問以下程式執行後輸出什麼結果:
+【(B)】 /8.試問以下程式執行後輸出什麼結果:
 
 #!/usr/bin/python3
 print(100 < 200)
@@ -73,7 +73,7 @@ print(100 < 200)
 ```
 # 2.資料型態及其運算 DataType
 ```
-9.要定義一個整數變數a  底下程式碼需填入什麼:
+【(A)】/ 9.要定義一個整數變數a  底下程式碼需填入什麼:
 #!/usr/bin/python3
 a = ___________
 
@@ -83,7 +83,7 @@ a = ___________
 (D) 1.0 * 1.0
 ```
 ```
-10.試問以下程式執行後輸出什麼結果:
+【(D)】/ 10.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
 a = bool(100)
 print(a)
@@ -94,7 +94,7 @@ print(a)
 (D) True
 ```
 ```
-11.要在螢幕輸出變數x的資料型態  底下程式需使用哪個函數:
+【(B)】/11.要在螢幕輸出變數x的資料型態  底下程式需使用哪個函數:
 #!/usr/bin/python3
 a = 100
 print(_______(a))
@@ -102,7 +102,7 @@ print(_______(a))
 (A) any   (B) type   (C) complex   (D) bin
 ```
 ```
-12.試問以下程式執行後輸出什麼結果:
+【(A)】/ 12.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
 a = “Python!”
 print(type(a))
@@ -110,7 +110,7 @@ print(type(a))
 (A) str   (B) int   (C) float   (D) tuple
 ```
 ```
-13.試問以下程式執行後輸出什麼結果:
+【(D)】/ 13.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
 a = ("Python", True, 1234)
 print(type(a))
@@ -118,7 +118,7 @@ print(type(a))
 (A) str   (B) int   (C) float   (D) tuple
 ```
 ```
-14.試問以下程式執行後輸出什麼結果:
+【(C)】/ 14.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
 a = ["Python", "True", "1234"]
 print(type(a))
@@ -126,7 +126,7 @@ print(type(a))
 (A) set   (B) dict   (C) list   (D) tuple
 ```
 ```
-15.試問以下程式執行後輸出什麼結果:
+【(B)】/ 15.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
 a = {"name" : "Eric", "age" : 90}
 print(type(a))
@@ -135,7 +135,7 @@ print(type(a))
 ```
 ## 字串1
 ```
-16.試問若要定義一字串變數應填入什麼:
+【(A)】/ 16.試問若要定義一字串變數應填入什麼:
 
 #!/usr/bin/python3
 a = ________
@@ -147,7 +147,7 @@ print(a)
 (D) {"Hello Python"}
 ```
 ```
-17.試問以下程式執行後輸出什麼結果:
+【(B)】/ 17.試問以下程式執行後輸出什麼結果:
 
 #!/usr/bin/python3
 a = "Hello, World!"
@@ -156,7 +156,7 @@ print(a[1])
 (A) H   (B) e   (C) l   (D) 1
 ```
 ```
-18.要在螢幕輸出llo  底下程式需填入什麼:
+【(C)】/ 18.要在螢幕輸出llo  底下程式需填入什麼:
 
 #!/usr/bin/python3
 a = "Hello, World!"
@@ -165,7 +165,7 @@ print(a[__________])
 (A) 4:6   (B) 3:5   (C) 2:5   (D) llo
 ```
 ```
-19.試問以下程式執行後輸出什麼結果:
+19.試問以下程式執行後輸出什麼結果:【(A)】 【(C)】 
 #!/usr/bin/python3
 a = "        HelloPython "
 print(a.strip())
@@ -176,7 +176,7 @@ print(a.strip())
 (D) H e l l o P y t h o n
 ```
 ```
-20.試問若要判斷Kun是否存在於txt字串中以下程式應填入什麼:
+【(D)】/20.試問若要判斷Kun是否存在於txt字串中以下程式應填入什麼:
 #!/usr/bin/python3
 txt = " Kun Shan University was officially founded on April 29, 1965"
 x = "Kun" __________ txt
@@ -188,7 +188,7 @@ print(x)
 (D) in
 ```
 ```
-21.試問若要輸出a、b兩字串合併後的結果以下程式應填入什麼:
+【(D)】/21.試問若要輸出a、b兩字串合併後的結果以下程式應填入什麼:
 #!/usr/bin/python3
 a = “Kun Shan”
 b = “University”
@@ -200,7 +200,7 @@ print(__________)
 (D) a,b
 ```
 ```
-22.試問以下程式執行後輸出什麼結果:
+【(D)】/22.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
 a = “Kun Shan”
 b = 100
@@ -213,7 +213,7 @@ print(a + b)
 ```
 ## 字串2
 ```
-23.試問以下程式執行後輸出什麼結果:
+【(B)】/ 23.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
 a = 'Kun Shan {}'
 b = 'University'
